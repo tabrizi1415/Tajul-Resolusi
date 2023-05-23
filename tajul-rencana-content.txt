@@ -8,6 +8,8 @@ Rencana Konten Tajul
   * Joging
 - Programming
   * Java
+    * JForm Java
+    * GUI Interface
   * HTML & CSS
   * Python
 - Matematika
