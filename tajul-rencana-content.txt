@@ -2,6 +2,8 @@ Rencana Konten Tajul
 
 - Olahraga
   * Push up
+    * Tangan\
+    * Lengan
   * Sit up
   * Joging
 - Programming
