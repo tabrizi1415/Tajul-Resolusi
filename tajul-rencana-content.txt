@@ -12,5 +12,4 @@ Rencana Konten Tajul
     * GUI Interface
   * HTML & CSS
   * Python
-- Matematika
 - Data Learning
