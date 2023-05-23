@@ -2,10 +2,14 @@ Rencana Konten Tajul
 
 - Olahraga
   * Push up
+    * Tangan\
+    * Lengan
   * Sit up
   * Joging
 - Programming
   * Java
+    * JForm Java
+    * GUI Interface
   * HTML & CSS
   * Python
 - Matematika
